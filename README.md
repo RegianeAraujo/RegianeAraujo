@@ -2,7 +2,7 @@
 
 <img align="right" width="505" height="512" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif">
 <br>
-<p>&emsp;<strong>Sou tecnólogo em Análise e Desenvolvimento de Sistemas.</strong></p>
+<p>&emsp;<strong>Sou tecnóloga em Análise e Desenvolvimento de Sistemas.</strong></p>
 <br>
 
 -  🏢 Trabalho como Product Analisty 
