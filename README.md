@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá sou Regiane Araújo, seja bem vindo(a)!!!  😄😄😄 
 
-<!--
-**RegianeAraujo/RegianeAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="505" height="512" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif">
+<br>
+<p>&emsp;<strong>Sou tecnólogo em Análise e Desenvolvimento de Sistemas.</strong></p>
+<br>
 
-Here are some ideas to get you started:
+-  🏢 Trabalho como Product Analisty 
+-  💪 Atualmente meus esforços estão voltados para Automação de Testes. 
+-  🏠 Moro em Barueri - SP , uma linda cidade por sinal.
+-  🤔 Gosto de atividade física, boas músicas e Viajar. 
+-  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
+-  👋 Muito obrigado pela visita e volte sempre!
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+&emsp;Siga-me no Linkedin: <br>
+&emsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/regiane-n-a-61236466/)](https://www.linkedin.com/in/regiane-n-a-61236466/)
+<br>
+<br>
+
