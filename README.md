@@ -5,7 +5,7 @@
 <p>&emsp;<strong>Sou tecnóloga em Análise e Desenvolvimento de Sistemas.</strong></p>
 <br>
 
--  🏢 Trabalho como Product Analisty 
+-  🏢 Trabalho como Analista de Produtos
 -  💪 Atualmente meus esforços estão voltados para Automação de Testes. 
 -  🏠 Moro em Barueri - SP , uma linda cidade por sinal.
 -  🤔 Gosto de atividade física, boas músicas e Viajar. 
