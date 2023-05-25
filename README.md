@@ -1,4 +1,4 @@
-### Olá sou Regiane Araújo, seja bem vindo(a)!!!  😄😄😄 
+### Olá sou Regiane Araújo, tudo bem, seja bem vindo(a)!!!  😄😄😄 
 
 <img align="right" width="505" height="512" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/5540b367737027abdae6ef05bbc2e475.gif">
 <br>
